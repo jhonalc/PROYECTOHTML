@@ -81,9 +81,11 @@ header .textos-header{
     color: aliceblue;
 }
 
+
 .contenedor-sobre-nosotros{
     display: flex;
     justify-content: space-evenly;
+    /* flex-flow: row wrap; */
 }
 
 .imagen-logo{

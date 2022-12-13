@@ -4,8 +4,12 @@
     box-sizing: border-box;
 }
 
-body{
+/* body{
     font-family: monospace;
+} */
+
+body{
+    font-family:'open sans'; 
 }
 
 nav{
@@ -315,17 +319,17 @@ footer{
 
 .f11{
     height: 25%;
-    width: 70%;
+    width: 100%;
 }
 
 .f12{
     height: 55%;
-    width: 70%;
+    width: 100%;
 }
 
 .f2{
     width: 45%;
-    height: 70%;
+    height: 100%;
     color: white;
     font-size: 20px;
 }
